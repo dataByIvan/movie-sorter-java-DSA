@@ -1,0 +1,26 @@
+Algorithms,n,Execution Time (ms)
+Merge,10,0.024
+Merge,8814,8.98
+Quick,10,0.007
+Quick,8814,7.211
+sequenceStitcher,10,0.019
+sequenceStitcher,8814,11.701
+AdaptiveReel,10,0.014
+AdaptiveReel,8814,8.581
+topBoxOfficeRanker,8814,160.509
+Merge,10,0.021
+Merge,8814,8.355
+Quick,10,0.007
+Quick,8814,7.009
+sequenceStitcher,10,0.022
+sequenceStitcher,8814,11.657
+AdaptiveReel,10,0.012
+AdaptiveReel,8814,8.029
+Merge,10,0.028
+Merge,8814,13.416
+Quick,10,0.011
+Quick,8814,13.394
+sequenceStitcher,10,0.031
+sequenceStitcher,8814,20.436
+AdaptiveReel,10,0.022
+AdaptiveReel,8814,17.37
